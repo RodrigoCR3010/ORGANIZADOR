@@ -1,7 +1,7 @@
 {
   "name": "Organizador Personal",
   "short_name": "Organizador",
-  "description": "Gestiona tus tareas y eventos con prioridades y recordatorios",
+  "description": "Gestiona tus tareas, eventos y recordatorios",
   "start_url": "/ORGANIZADOR/",
   "display": "standalone",
   "background_color": "#ffffff",
